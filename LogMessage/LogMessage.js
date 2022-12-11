@@ -5,6 +5,9 @@
 
 /*:
  * @plugindesc ログメッセージプラグイン
+ * @target MZ
+ * @base PluginCommonBase
+ * @orderAfter PluginCommonBase
  * @author kido0617
  * @help
  * 
